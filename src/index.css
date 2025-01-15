@@ -1,0 +1,16 @@
+/*
+primarily handle CSS resets and foundational rules (e.g., body margins, font smoothing, or box-sizing)
+*/
+
+body {
+  margin: 0;
+  font-family: var(--font-family);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: var(--color-bg);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

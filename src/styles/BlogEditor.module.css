@@ -1,0 +1,14 @@
+.editorContainer {
+    margin: 1rem;
+    padding: 1rem;
+    background-color: var(--color-bg);
+}
+
+.inputField {
+
+    width: 100%;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+}
